@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Facebook.Models.ApplicationUser>
+@using Microsoft.AspNet.Identity
+
+<ul class="list-group">
+    @foreach (var item in Model)
+    {
+
+        <li class="list-group-item" style="background-color:#FAFAFA;border:none">
+            <img src="~/Image/@item.image" style="width:50px; border-radius:100%" />
+            <label style="padding:5px;display:inline-block;">@item.UserName</label>
+            @Ajax.ActionLink("Accept", "AcceptFriend", "User", routeValues: new { FriendID = item.Id, userID = User.Identity.GetUserId() }, ajaxOptions: new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "FriendRequestsDiv" }, htmlAttributes: new
+            {
+                @class = "btn btn-primary",
+                style = "width:120px"
+            })
+
+            @Ajax.ActionLink("Reject", "RejectFriendRequest", "User", routeValues: new { FriendID = item.Id, userID = User.Identity.GetUserId() }, ajaxOptions: new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "FriendRequestsDiv" }, htmlAttributes: new
+            {
+                @class = "btn btn-primary",
+                style = "margin-right:5%;width:120px"
+            })
+
+        </li>
+
+    }
+</ul>
+

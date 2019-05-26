@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Facebook.Models.Education>
+
+
+<ul class="list-group list-group-flush" id="EduUL">
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item">
+            <span>@item.education</span>
+        </li>
+
+    }
+
+</ul>
+

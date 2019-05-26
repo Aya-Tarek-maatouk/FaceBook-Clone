@@ -1,0 +1,157 @@
+﻿@model Facebook.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "ShowFriendProfile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section scripts{}
+
+
+
+
+<!--Profile Header Photo-->
+<div class="row">
+
+    <div id="carouselExampleSlidesOnly" class="carousel slide col-6 " data-ride="carousel">
+        <div class="carousel-inner ">
+            <div class="carousel-item active" style="background-image:url(../../Image/pexelsphoto1.jpeg);height:300px; border:3px solid white;margin-left:50px;margin-top:10px;">
+                <img style="width:170px;height:170px;border-radius:100%;border:5px solid white;z-index:5;position:relative;top:130px;left:30px" src="~/Image/@Model.image" />
+
+            </div>
+        </div>
+        <!--NavBar-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin-left:50px;background-color:white">
+
+            <a class="navbar-brand" href="#"></a>
+
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav" style="padding-top:10px;">
+                    <li class="nav-item active">
+                        <a class="nav-link ProfileMenu" href="#">TimeLine <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ProfileMenu" href="#">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ProfileMenu" href="#">Frinds</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ProfileMenu" href="#">Photos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ProfileMenu" href="#">Archive</a>
+                    </li>
+                </ul>
+            </div>
+
+
+            @using (Ajax.BeginForm("AddFriendRequest", "User", ajaxOptions: new AjaxOptions { HttpMethod = "Post", OnSuccess = "Addfriendfun()" }))
+            { 
+            
+            <input type="hidden" name="user" value="@ViewBag.currentID" />
+            <input type="hidden" name="UserFriend" value="@Model.Id" />
+            <button type="submit" id="btnAddFriend" class="btn btn-primary btn-lg" style="position:relative;top:-30px;left:60%;">@ViewBag.btnAddFriendTxt</button>
+            }
+
+        </nav>
+        <!--End Of NavBar-->
+    </div>
+
+</div>
+
+<!--End  Of Profile Header-->
+
+<div class="row">
+    <!--Left Menu-->
+
+    <div id="LeftMainMenu" style="background-color:white" class="jumbotron jumbotron-fluid col-md-3 col-12">
+        <div class="accordion" id="accordionExample">
+            <div class="card">
+                <div class="card-header" id="headingTwo">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                            Skills
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <div>
+
+                            <div id="SkillDiv">
+                                @Html.Action("GetAllSkills", "User")
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="card">
+                <div class="card-header" id="headingTwo">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Education
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <div>
+
+
+                            <div id="EduDiv">
+                                @Html.Action("GetAllEducation", "User")
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="card">
+                <div class="card-header" id="headingThree">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Work
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <div>
+
+                            <div id="WorkDiv">
+                                @Html.Action("GetAllWork", "User")
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--CreatePost and Posts-->
+    <div id="MainPostContainer" class="jumbotron jumbotron-fluid col-md-5 col-12">
+
+            <div id="AllPostsDivContainer">
+
+
+                <div id="GetAllPostsDiv__">
+                    @Html.Action("GetallFriendPosts", "User")
+                </div>
+
+            </div>
+        </div>
+
+    <!--Right Menu-->
+    <div id="RightMainMenu" class="jumbotron jumbotron-fluid col-md-3 col-12"></div>
+</div>
+
+
+
+
+

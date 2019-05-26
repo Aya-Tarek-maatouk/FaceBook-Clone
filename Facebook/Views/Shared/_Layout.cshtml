@@ -1,0 +1,232 @@
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @*new*@
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+    <link href="~/Content/Site.css" rel="stylesheet" />
+  @*  <a href="~/countries.json">~/countries.json</a>*@
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+
+
+</head>
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top Myheader">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div style="margin-right:30px;">
+                    <span><img src="~/Images/FacbookLogo.png" style="width:25px; height:25px; margin-top:10px " /></span>
+                    <span> @Html.ActionLink("Facebook", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })</span>
+
+                </div>
+            </div>
+            <div class="navbar-collapse collapse">
+                <div>
+                    @{if (Request.IsAuthenticated)
+                        {
+
+                            using (Ajax.BeginForm("Search", "Home", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "SearchResult", OnSuccess = "fun6()" }, htmlAttributes: new { @class = "searchForm" },routeValues:new { }))
+                            {
+                                <div class="SearchFormDiv">
+                                    <input class="form-control mr-sm-2" type="search" placeholder="Search" name="SearchText" aria-label="Search">
+                                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" style="float:right; position:relative;top:-35px;left:-100px">Search</button>
+                                </div>
+                            }
+                        } }
+                    @Html.Partial("_LoginPartial")
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+
+            @RenderBody()
+        </div>
+    </div>
+
+    <footer class="navbar myfooter ">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h3>
+                        <i class="glyphicon glyphicon-question-sign"></i>
+                        Who are we?
+                    </h3>
+                    <p>
+                        We are pla pla pla pla for nw
+                    </p>
+                </div>
+                <div class="col-md-4">
+                    <h3>
+                        <i class="glyphicon glyphicon-globe"></i>
+                        Most Important Links
+                    </h3>
+                    <ul>
+                        <li><a href="#">ImportantLink1</a></li>
+                        <li><a href="#">ImportantLink2</a></li>
+                        <li><a href="#">ImportantLink3</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h3>
+
+                        Contact us
+                    </h3>
+                    <ul>
+                        <li><a href="#" class="glyphicon glyphicon-envelope"> Mail</a></li>
+                        <li><a href="#" class="glyphicon glyphicon-envelope"> Message</a></li>
+                        <li><a href="#" class="glyphicon glyphicon-cloud"> OurOwnPage</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="Subfooter">
+            <span> Facebook copy Righter *2019</span>
+        </div>
+    </footer>
+
+
+    <div class="modal fade" id="SearchPOP" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">People</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="SearchResult">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script>
+        function fun() {
+            $("#Create_PostModal").modal('hide');
+        };
+        function fun2() {
+            $("#HI").modal('hide');
+
+        };
+        function SuccessComment() {
+            $("#CommentModal").modal('hide');
+        };
+
+        function editeskillfun() {
+            $("#EditSkillMainModal").modal('toggle');
+
+        }
+        function editeWorkfun() {
+            $("#EditWorkMainModal").modal('toggle');
+
+        }
+
+        function editeEDUfun() {
+            $("#EditEDUMainModal").modal('toggle');
+
+
+        }
+
+        function fireelment(c) {
+            //document.getElementsByClassName("Postform")[c].submit();
+            $(".CommentsModat").modal('hide');
+            $(".CommentsModat:eq(" + c + ")").modal('show');
+
+        }
+
+        function fireComment(c) {
+            //document.getElementsByClassName("Postform")[c].submit();
+            $(".FriendCommentsModat").modal('hide');
+            $(".FriendCommentsModat:eq(" + c + ")").modal('show');
+
+        }
+
+        function SuccessFriendComment() {
+            $("#FriendCommentModal").modal('hide');
+
+        }
+
+
+        $(".commentsCard").hide();
+
+        function togglecomments(c) {
+
+            $(".commentsCard:eq(" + c + ")").toggle();
+        }
+
+        function openeditmodal(c) {
+            $(".editModal").modal('hide');
+            $(".editModal:eq(" + c + ")").modal('show');
+        }
+
+        function Homeopeneditmodal(c) {
+            $(".HomeeditModal").modal('hide');
+            $(".HomeeditModal:eq(" + c + ")").modal('show');
+        }
+
+
+        function fun6() {
+            $("#SearchPOP").modal('toggle');
+        }
+        function Addfriendfun() {
+            document.getElementById("#btnAddFriend").innerHTML="Responding"
+        }
+        $("#FriendRequestsDiv").hide();
+        function FriendRequestDiv() {
+            $("#FriendRequestsDiv").toggle();
+
+        }
+
+    </script>
+    <script>
+        $(function () {
+            $.getJSON('../countries.json',
+                function (data, status, myXhr) {
+                    for (var prop in data) {
+                        $('#Countries').append('<option>' + prop + '</option>');
+                    }
+                    $('#Countries').change(function () {
+                        $('#Cities').empty();
+                        var cntry = $('#Countries').val();
+                        for (var i = 0; i < data[cntry].length; i++) {
+                            console.log(data[cntry][i]);
+                            $('#Cities').append('<option>' + data[cntry][i] + '</option>');
+                        }
+                    });
+
+
+                }
+            )
+        })
+
+    </script>
+</body>
+</html>

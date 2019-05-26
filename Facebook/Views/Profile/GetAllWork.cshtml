@@ -1,0 +1,47 @@
+﻿
+@model IEnumerable<Facebook.Models.Work>
+
+
+<ul class="list-group list-group-flush" id="WorkUL">
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item">
+            <span>@item.work</span><span>
+                @Ajax.ActionLink("Edit", "update_Work", new { id = item.id }, ajaxOptions: new AjaxOptions { HttpMethod = "Get", OnSuccess = "editeWorkfun()", UpdateTargetId = "EditWorkModal", InsertionMode = InsertionMode.Replace }) |
+                @Ajax.ActionLink("Delete", "delete_work", new { id = item.id }, ajaxOptions: new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "WorkDiv", InsertionMode = InsertionMode.Replace })
+
+            </span>
+        </li>
+
+    }
+
+</ul>
+
+
+
+
+
+
+
+
+<!--Edit Work-->
+
+<div class="modal" tabindex="-1" id="EditWorkMainModal" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Update Work</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="EditWorkModal">
+
+            </div>
+
+        </div>
+    </div>
+    </div>
+
+
+

@@ -1,0 +1,186 @@
+﻿@model Facebook.Models.ApplicationUser
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<!--Profile Header Photo-->
+<div class="row">
+
+    <div id="carouselExampleSlidesOnly" class="carousel slide col-6 " data-ride="carousel">
+        <div class="carousel-inner ">
+            <div class="carousel-item active" style="background-image:url(../../Image/pexelsphoto1.jpeg);height:300px; border:3px solid white;margin-left:50px;margin-top:10px;">
+                <img style="width:170px;height:170px;border-radius:100%;border:5px solid white;z-index:5;position:relative;top:130px;left:30px" src="~/Image/@Model.image" />
+            </div>
+        </div>
+        <!--NavBar-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin-left:50px;background-color:white">
+
+            <a class="navbar-brand" href="#"></a>
+            @*<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>*@
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav" style="padding-top:10px;">
+                    <li class="nav-item active">
+                        <a class="nav-link ProfileMenu" href="#">TimeLine <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ProfileMenu" href="#">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ProfileMenu" href="#">Frinds</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ProfileMenu" href="#">Photos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ProfileMenu" href="#">Archive</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!--End Of NavBar-->
+    </div>
+
+</div>
+
+<!--End  Of Profile Header-->
+
+<div class="row">
+    <!--Left Menu-->
+
+    <div id="LeftMainMenu" style="background-color:white" class="jumbotron jumbotron-fluid col-md-3 col-12">
+        <div class="accordion" id="accordionExample">
+            <div class="card">
+                <div class="card-header" id="headingTwo" >
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                            Skills
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <div>
+                            @using (Ajax.BeginForm("create_skill", "Profile", ajaxOptions: new AjaxOptions { InsertionMode = InsertionMode.Replace, HttpMethod = "Post", UpdateTargetId = "SkillDiv" }))
+                            {
+                                <input type="text" name="skill" id="skill_txt" />
+                                <input type="submit" value="Add" id="btn_skill" />
+
+                            }
+
+                            <div id="SkillDiv">
+                                @Html.Action("GetAllSkills")
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="card">
+                <div class="card-header" id="headingTwo">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Education
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <div>
+                            @using (Ajax.BeginForm("CreateEducation", "Profile", ajaxOptions: new AjaxOptions { InsertionMode = InsertionMode.Replace, HttpMethod = "Post", UpdateTargetId = "EduDiv" }))
+                            {
+                                <input type="text" name="EDU" id="Edu_txt" />
+                                <input type="submit" value="Add" id="btn_Edu" />
+
+                            }
+
+                            <div id="EduDiv">
+                                @Html.Action("GetAllEducation")
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="card">
+                <div class="card-header" id="headingThree">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Work
+                        </button>
+                    </h2>
+                </div>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                    <div class="card-body">
+                        <div>
+                            @using (Ajax.BeginForm("CreateWork", "Profile", ajaxOptions: new AjaxOptions { InsertionMode = InsertionMode.Replace, HttpMethod = "Post", UpdateTargetId = "WorkDiv" }))
+                            {
+                                <input type="text" name="work" id="Work_txt" />
+                                <input type="submit" value="Add" id="btn_Work" />
+
+                            }
+                            <div id="WorkDiv">
+                                @Html.Action("GetAllWork")
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--CreatePost and Posts-->
+    <div id="MainPostContainer" class="jumbotron jumbotron-fluid col-md-5 col-12">
+
+        <div id="AllPostsDivContainer">
+
+            <!--createPost-->
+            <div id="CreatePost" class=" col-12 modal-content">
+                <p>Create Post</p>
+
+                <div id="CreatePostInputs">
+                    <div class="col-12">
+                        <img src="~/Image/@Model.image" style="" />
+                        <input type="text" placeholder="What's In Your Mind,@Model.UserName ?..." class="w3-border w3-padding" data-toggle="modal" data-target="#Create_PostModal">
+                    </div>
+                </div>
+
+            </div>
+            <div id="GetAllPostsDiv_">
+                @Html.Action("GetAll_Posts", "Profile")
+            </div>
+
+        </div>
+    </div>
+
+    <!--Right Menu-->
+    <div id="RightMainMenu" class="jumbotron jumbotron-fluid col-md-3 col-12"></div>
+</div>
+
+<div class="row">
+    <!-- CreatePostModal -->
+    <div class="col-12">
+        <div class="modal fade" id="Create_PostModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel2">Create Post</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="Post-modal-body">
+                        @Html.Action("CreatePost")
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

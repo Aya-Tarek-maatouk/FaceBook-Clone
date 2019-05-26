@@ -1,0 +1,94 @@
+﻿@model Facebook.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+
+<!--End  Of Profile Header-->
+    <div class="row">
+            <!--Left Menu-->
+
+        <div id="LeftMainMenu" class="jumbotron jumbotron-fluid col-md-3 col-12">
+            <div  id="Div_lftMenu">
+                <ul class="list-group">
+                    <li class="list-group-item ">
+                        <span class="glyphicon glyphicon-home"> Market Place</span>
+                    </li>
+                    <li class="list-group-item ">
+                        <span class="glyphicon glyphicon-picture"> News Feed</span>
+                    </li>
+                    <li class="list-group-item ">
+                        <span class="glyphicon glyphicon-calendar"> Events</span>
+                    </li>
+                    <li class="list-group-item ">
+                        <span class="glyphicon glyphicon-user">
+                            <a href=""> Friends List</a>
+                        </span>
+                    </li>
+                    <li class="list-group-item ">
+                        <span class="glyphicon glyphicon-user"> Groups</span>
+                    </li>
+                    <li class="list-group-item ">
+                        <span class="glyphicon glyphicon-facetime-video"> Watch</span>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+            <!--CreatePost and Posts-->
+            <div id="MainPostContainer" class="jumbotron jumbotron-fluid col-md-5 col-12">
+
+                <div id="AllPostsDivContainer">
+
+                    <!--createPost-->
+                    <div id="CreatePost" class=" col-12 modal-content">
+                        <p>Create Post</p>
+
+                        <div id="CreatePostInputs">
+                            <div class="col-12">
+                                <img src="~/Image/@Model.image" style="" />
+                                <input type="text" placeholder="What's In Your Mind,@Model.UserName ?..." class="w3-border w3-padding" data-toggle="modal" data-target="#Create_PostModal">
+                            </div>
+                        </div>
+
+                    </div>
+                    <div id="HomeGetAllPostsDiv_">
+                        @Html.Action("HomePosts")
+                    </div>
+
+                </div>
+            </div>
+
+            <!--Right Menu-->
+            <div id="RightMainMenu" class="jumbotron jumbotron-fluid col-md-3 col-12"></div>
+        </div>
+
+        <div class="row">
+            <!-- CreatePostModal -->
+            <div class="col-12">
+                <div class="modal fade" id="Create_PostModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel2">Create Post</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="Post-modal-body">
+                                @Html.Action("CreatePost")
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+

@@ -1,0 +1,61 @@
+﻿
+@model Facebook.Models.OwnModels.MessageViewObject
+
+<div class="contact-profile">
+    <img src="~/@(Model.CurrentFriend.image)" alt="" />
+    <p>@Model.CurrentFriend.UserName</p>
+    <div class="social-media">
+        <i class="fa fa-facebook" aria-hidden="true"></i>
+    </div>
+    <input type="hidden" id="CurrentUserID" value=@Model.CurrentUser.Id />
+    <input type="hidden" id="CurrentFriendID" value=@Model.CurrentFriend.Id />
+    @*<input type="hidden" id="messno" value= @Model.MessageSinfo.Count />*@
+
+</div>
+<div class="messages">
+    <ul>
+        @{
+            string classname = "";
+            if (Model.MessageSinfo != null)
+            {
+                for (int i = (Model.MessageSinfo.Count - 1); i >= 0; i--)
+                {
+                    if (Model.MessageSinfo[i].Sender.Id == Model.CurrentFriend.Id)
+                    {
+                        classname = "replies";
+                    }
+                    else
+                    {
+                        classname = "sent";
+                    }
+
+                    <li class=@classname>
+                        @*userimage*@
+                        <img src="~/Image/@(Model.MessageSinfo[i].Sender.image)" alt="" />
+                        @*message*@
+                        <p>@Model.MessageSinfo[i].MessageTxt </p>
+                    </li>
+
+
+                }
+
+            }
+
+        }
+
+    </ul>
+</div>
+
+<div class="message-input">
+    <div class="wrap">
+        <input type="text" placeholder="Write your message..." />
+        <button class="submit" id="ClickMe"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
+    </div>
+</div>
+
+<script>
+
+</script>
+
+
+

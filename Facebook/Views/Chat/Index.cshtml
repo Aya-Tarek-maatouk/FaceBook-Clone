@@ -1,0 +1,43 @@
+﻿@model Facebook.Models.ApplicationUser
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_chatLayout.cshtml";
+}
+
+    <div id="frame">
+            <div id="sidepanel">
+                <div id="profile">
+                    <div class="wrap">
+                        @*where we will put the user image*@
+                        <img id="profile-img" src="~/Image/@(Model.image)" class="online" alt="" />
+                        @*Me*@
+                        <p>@Model.UserName</p>
+                        @*readfromModel*@
+                        <input type="hidden" id="INDEXCurrentUserID" value=@Model.Id />
+                        <input type="hidden" value="2" class="myProf" />
+                    </div>
+                </div>
+                <div id="search">
+                    <label for=""><i class="fa fa-search" aria-hidden="true"></i></label>
+                    @*search on textchange select the friends with the names on the textbox*@
+                    <input type="text" placeholder="Search contacts..." />
+                </div>
+                <div id="contacts">
+                    @Html.Action("GetAllContacts")
+                </div>
+            </div>
+
+
+            <div class="content" id="COntentMessage">
+
+            </div>
+        </div>
+@section scripts{
+    <script src="~/Scripts/jquery.signalR-2.4.0.min.js"></script>
+    <script src="~/signalr/Hubs/"></script>
+    <script src="~/Scripts/MessageJS.js"></script>
+
+}
+
+
+

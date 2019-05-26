@@ -1,0 +1,875 @@
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\ApplicationInsights.config
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Facebook.dll.config
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Facebook.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Facebook.pdb
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Antlr3.Runtime.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\EntityFramework.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\EntityFramework.SqlServer.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.Web.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.WindowsServer.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.ApplicationInsights.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.Google.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Web.Infrastructure.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Newtonsoft.Json.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Owin.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.Helpers.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.Mvc.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.Optimization.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.Razor.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.WebPages.Deployment.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.WebPages.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.WebPages.Razor.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\WebGrease.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.Helpers.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.Mvc.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.Optimization.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.Razor.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.WebPages.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.WebPages.Deployment.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\System.Web.WebPages.Razor.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Antlr3.Runtime.pdb
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Newtonsoft.Json.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\EntityFramework.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\EntityFramework.SqlServer.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.Google.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.ApplicationInsights.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.WindowsServer.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\bin\Microsoft.AI.Web.xml
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.dll
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.pdb
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.Migrations.DatabaseCreation.resources
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.Migrations.UpdateDb.resources
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.Migrations.UpdateDb1.resources
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.Migrations.UpdateDb2.resources
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.Migrations.update2.resources
+D:\ITI Full Stack\7-MVC\Facebook\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+C:\Users\Heba\Desktop\Facebook\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+C:\Users\Heba\Desktop\Facebook\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+C:\Users\Heba\Desktop\Facebook\Facebook\obj\Debug\Facebook.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\obj\Debug\Facebook.pdb
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\ApplicationInsights.config
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Facebook.dll.config
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Facebook.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Facebook.pdb
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Antlr3.Runtime.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\EntityFramework.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\EntityFramework.SqlServer.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.Web.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Newtonsoft.Json.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Owin.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.Helpers.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.Mvc.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.Optimization.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.Razor.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.WebPages.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\WebGrease.dll
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.Helpers.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.Mvc.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.Optimization.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.Razor.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.WebPages.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Antlr3.Runtime.pdb
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Newtonsoft.Json.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\EntityFramework.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\EntityFramework.SqlServer.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Heba\Desktop\Facebook\Facebook\bin\Microsoft.AI.Web.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.pdb
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\ApplicationInsights.config
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Facebook.dll.config
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Facebook.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Facebook.pdb
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Antlr3.Runtime.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\EntityFramework.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\EntityFramework.SqlServer.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.Web.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.WindowsServer.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.ApplicationInsights.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Google.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Web.Infrastructure.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Newtonsoft.Json.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Owin.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.Helpers.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.Mvc.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.Optimization.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.Razor.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.Deployment.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.Razor.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\WebGrease.dll
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.Helpers.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.Mvc.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.Optimization.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.Razor.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.Deployment.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.Razor.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Antlr3.Runtime.pdb
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Newtonsoft.Json.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\EntityFramework.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\EntityFramework.SqlServer.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Google.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.ApplicationInsights.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.WindowsServer.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.Web.xml
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.Migrations.update.resources
+D:\Lamis\ITI Full Stack\MVC\Project\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+F:\my iti\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+F:\my iti\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.dll
+F:\my iti\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.pdb
+F:\my iti\Version 5-2\Facebook\Facebook\bin\ApplicationInsights.config
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Facebook.dll.config
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Facebook.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Facebook.pdb
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Antlr3.Runtime.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\EntityFramework.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\EntityFramework.SqlServer.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.Web.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.WindowsServer.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.ApplicationInsights.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Google.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Web.Infrastructure.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Newtonsoft.Json.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Owin.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.Helpers.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.Mvc.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.Optimization.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.Razor.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.Deployment.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.Razor.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\WebGrease.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.Helpers.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.Mvc.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.Optimization.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.Razor.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.Deployment.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\System.Web.WebPages.Razor.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Antlr3.Runtime.pdb
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Newtonsoft.Json.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\EntityFramework.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\EntityFramework.SqlServer.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Google.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.ApplicationInsights.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.WindowsServer.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AI.Web.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.SignalR.Core.pdb
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+F:\my iti\Version 5-2\Facebook\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\my iti\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.Migrations.Chat.resources
+F:\my iti\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+F:\my iti\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.Migrations.ChatI.resources
+F:\my iti\Version 5-2\Facebook\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\ApplicationInsights.config
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Facebook.dll.config
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Facebook.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Facebook.pdb
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Antlr3.Runtime.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\EntityFramework.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\EntityFramework.SqlServer.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.Web.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.WindowsServer.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.ApplicationInsights.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Google.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Web.Infrastructure.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Newtonsoft.Json.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Owin.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.Helpers.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.Mvc.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.Optimization.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.Razor.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.WebPages.Deployment.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.WebPages.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.WebPages.Razor.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\WebGrease.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.pdb
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.Helpers.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.Mvc.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.Optimization.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.Razor.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.WebPages.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.WebPages.Deployment.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\System.Web.WebPages.Razor.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Antlr3.Runtime.pdb
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Newtonsoft.Json.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\EntityFramework.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\EntityFramework.SqlServer.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Google.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.ApplicationInsights.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.WindowsServer.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\bin\Microsoft.AI.Web.xml
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\obj\Debug\Facebook.Migrations.I.resources
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\obj\Debug\Facebook.dll
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\obj\Debug\Facebook.pdb
+F:\my iti\Version 5-2\2-6-2019\Facebook8-2\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+E:\Facebook8-2\Facebook\bin\ApplicationInsights.config
+E:\Facebook8-2\Facebook\bin\Facebook.dll.config
+E:\Facebook8-2\Facebook\bin\Facebook.dll
+E:\Facebook8-2\Facebook\bin\Facebook.pdb
+E:\Facebook8-2\Facebook\bin\Antlr3.Runtime.dll
+E:\Facebook8-2\Facebook\bin\EntityFramework.dll
+E:\Facebook8-2\Facebook\bin\EntityFramework.SqlServer.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.Web.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.WindowsServer.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.ApplicationInsights.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Google.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.Web.Infrastructure.dll
+E:\Facebook8-2\Facebook\bin\Newtonsoft.Json.dll
+E:\Facebook8-2\Facebook\bin\Owin.dll
+E:\Facebook8-2\Facebook\bin\System.Web.Helpers.dll
+E:\Facebook8-2\Facebook\bin\System.Web.Mvc.dll
+E:\Facebook8-2\Facebook\bin\System.Web.Optimization.dll
+E:\Facebook8-2\Facebook\bin\System.Web.Razor.dll
+E:\Facebook8-2\Facebook\bin\System.Web.WebPages.Deployment.dll
+E:\Facebook8-2\Facebook\bin\System.Web.WebPages.dll
+E:\Facebook8-2\Facebook\bin\System.Web.WebPages.Razor.dll
+E:\Facebook8-2\Facebook\bin\WebGrease.dll
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Facebook8-2\Facebook\bin\System.Web.Helpers.xml
+E:\Facebook8-2\Facebook\bin\System.Web.Mvc.xml
+E:\Facebook8-2\Facebook\bin\System.Web.Optimization.xml
+E:\Facebook8-2\Facebook\bin\System.Web.Razor.xml
+E:\Facebook8-2\Facebook\bin\System.Web.WebPages.xml
+E:\Facebook8-2\Facebook\bin\System.Web.WebPages.Deployment.xml
+E:\Facebook8-2\Facebook\bin\System.Web.WebPages.Razor.xml
+E:\Facebook8-2\Facebook\bin\Antlr3.Runtime.pdb
+E:\Facebook8-2\Facebook\bin\Newtonsoft.Json.xml
+E:\Facebook8-2\Facebook\bin\EntityFramework.xml
+E:\Facebook8-2\Facebook\bin\EntityFramework.SqlServer.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Google.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.ApplicationInsights.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.WindowsServer.xml
+E:\Facebook8-2\Facebook\bin\Microsoft.AI.Web.xml
+E:\Facebook8-2\Facebook\obj\Debug\Facebook.Migrations.I.resources
+E:\Facebook8-2\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+E:\Facebook8-2\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+E:\Facebook8-2\Facebook\obj\Debug\Facebook.dll
+E:\Facebook8-2\Facebook\obj\Debug\Facebook.pdb
+E:\Facebook8-2\Facebook\obj\Debug\Facebook.Migrations.UpdateSkillTable.resources
+E:\Facebook8-2\Facebook\obj\Debug\Facebook.Migrations.UpdateSkillTable1.resources
+E:\Facebook8-2\Facebook\obj\Debug\Facebook.Migrations.UpdateEducationTable.resources
+E:\Facebook8-2\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\ApplicationInsights.config
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Facebook.dll.config
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Facebook.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Facebook.pdb
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Antlr3.Runtime.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\EntityFramework.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\EntityFramework.SqlServer.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.Web.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.WindowsServer.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.ApplicationInsights.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Google.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Web.Infrastructure.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Newtonsoft.Json.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Owin.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.Helpers.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.Mvc.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.Optimization.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.Razor.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.WebPages.Deployment.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.WebPages.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.WebPages.Razor.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\WebGrease.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.Helpers.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.Mvc.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.Optimization.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.Razor.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.WebPages.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.WebPages.Deployment.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\System.Web.WebPages.Razor.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Antlr3.Runtime.pdb
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Newtonsoft.Json.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\EntityFramework.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\EntityFramework.SqlServer.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Google.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.ApplicationInsights.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.WindowsServer.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\bin\Microsoft.AI.Web.xml
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.I.resources
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.UpdateSkillTable.resources
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.UpdateSkillTable1.resources
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.UpdateEducationTable.resources
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.dll
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.pdb
+E:\FaceBook Versions\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.notification.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\ApplicationInsights.config
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Facebook.dll.config
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Facebook.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Facebook.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Antlr3.Runtime.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\EntityFramework.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\EntityFramework.SqlServer.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.Web.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.WindowsServer.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.ApplicationInsights.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Google.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Web.Infrastructure.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Newtonsoft.Json.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Owin.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.Helpers.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.Mvc.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.Optimization.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.Razor.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.WebPages.Deployment.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.WebPages.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.WebPages.Razor.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\WebGrease.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.Helpers.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.Mvc.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.Optimization.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.Razor.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.WebPages.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.WebPages.Deployment.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\System.Web.WebPages.Razor.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Antlr3.Runtime.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Newtonsoft.Json.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\EntityFramework.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\EntityFramework.SqlServer.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Google.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.ApplicationInsights.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.WindowsServer.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\bin\Microsoft.AI.Web.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.I.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.UpdateSkillTable.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.UpdateSkillTable1.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.UpdateEducationTable.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.notification.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.FreindRequest.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_13-2\Facebook\obj\Debug\Facebook.Migrations.FreindRequestI.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\ApplicationInsights.config
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Facebook.dll.config
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Facebook.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Facebook.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Antlr3.Runtime.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\EntityFramework.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\EntityFramework.SqlServer.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.Web.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.WindowsServer.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.ApplicationInsights.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Google.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Web.Infrastructure.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Newtonsoft.Json.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Owin.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Helpers.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Mvc.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Optimization.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Razor.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.Deployment.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.Razor.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\WebGrease.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Helpers.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Mvc.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Optimization.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Razor.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.Deployment.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.Razor.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Antlr3.Runtime.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Newtonsoft.Json.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\EntityFramework.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\EntityFramework.SqlServer.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Google.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.ApplicationInsights.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.WindowsServer.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.Web.xml
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.I.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.UpdateSkillTable.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.UpdateSkillTable1.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.UpdateEducationTable.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.notification.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.FreindRequest.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.FreindRequestI.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.dll
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.pdb
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.FriendRequestII.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.FriendRequestIII.resources
+E:\FaceBook Versions\15-2 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.FriendRequestIIII.resources
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\ApplicationInsights.config
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Facebook.dll.config
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Facebook.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Facebook.pdb
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Antlr3.Runtime.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\EntityFramework.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\EntityFramework.SqlServer.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.Web.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.WindowsServer.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.ApplicationInsights.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Google.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Web.Infrastructure.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Newtonsoft.Json.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Owin.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.Helpers.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.Mvc.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.Optimization.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.Razor.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.WebPages.Deployment.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.WebPages.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.WebPages.Razor.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\WebGrease.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.Helpers.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.Mvc.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.Optimization.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.Razor.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.WebPages.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.WebPages.Deployment.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\System.Web.WebPages.Razor.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Antlr3.Runtime.pdb
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Newtonsoft.Json.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\EntityFramework.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\EntityFramework.SqlServer.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Google.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.ApplicationInsights.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.WindowsServer.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\bin\Microsoft.AI.Web.xml
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\obj\Debug\Facebook.dll
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\obj\Debug\Facebook.pdb
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.DBFinalCreation.resources
+D:\ITI Full Stack\7-MVC\Facebook_15-2\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\ApplicationInsights.config
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Facebook.dll.config
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Facebook.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Facebook.pdb
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Antlr3.Runtime.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\EntityFramework.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\EntityFramework.SqlServer.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.Agent.Intercept.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.DependencyCollector.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.Web.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.WindowsServer.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.ApplicationInsights.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Core.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Cookies.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Facebook.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Google.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.OAuth.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Twitter.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Web.Infrastructure.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Newtonsoft.Json.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Owin.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Helpers.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Mvc.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Optimization.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Razor.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.Deployment.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.Razor.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\WebGrease.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.pdb
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Helpers.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Mvc.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Optimization.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.Razor.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.Deployment.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\System.Web.WebPages.Razor.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Antlr3.Runtime.pdb
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Newtonsoft.Json.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\EntityFramework.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\EntityFramework.SqlServer.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Core.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Facebook.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Cookies.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.OAuth.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Google.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.Twitter.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.ApplicationInsights.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.DependencyCollector.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.WindowsServer.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\bin\Microsoft.AI.Web.xml
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.DBFinalCreation.resources
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.csproj.GenerateResource.Cache
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.dll
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.pdb
+F:\2-17-2019 FaceBook\Facebook_15-2\Facebook\obj\Debug\Facebook.Migrations.dd.resources

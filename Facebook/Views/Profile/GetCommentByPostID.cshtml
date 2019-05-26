@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Facebook.Models.Comment>
+
+<ul class="list-group list-group-flush" style="width:20rem">
+
+    @foreach (var item in Model)
+    {
+
+        <li class="list-group-item" style="background-color:#FAFAFA;width:400px;border:none">
+            <img src="~/Image/@item.ApplicationUser.image" style="width:40px; border-radius:100%" />
+            <label>@item.ApplicationUser.UserName</label>
+            <input type="text" readonly value="@item.Comment_Body" style="display:inline-block;background-color:#EEEEEE;height:30px;width:85%;border-radius:20px;padding-left:10px;border:1px solid #BDBDBD;" class="w3-border w3-padding">
+        </li>
+
+
+        
+    }
+
+</ul>

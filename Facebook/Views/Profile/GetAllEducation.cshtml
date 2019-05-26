@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Facebook.Models.Education>
+
+
+<ul class="list-group list-group-flush" id="EduUL">
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item">
+            <span>@item.education</span><span>
+    @Ajax.ActionLink("Edit", "update_EDU", new { id = item.EDUid }, ajaxOptions: new AjaxOptions { HttpMethod = "Get", OnSuccess = "editeEDUfun()", UpdateTargetId = "EditEDUModal", InsertionMode = InsertionMode.Replace }) |
+
+    
+    @Ajax.ActionLink("Delete", "delete_education", new { id = item.EDUid }, ajaxOptions: new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "EduDiv", InsertionMode = InsertionMode.Replace })
+
+</span>
+        </li>
+
+    }
+
+</ul>
+
+
+
+<!--Edit Education-->
+
+<div class="modal" tabindex="-1" id="EditEDUMainModal" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Update Education</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="EditEDUModal">
+              
+            </div>
+
+        </div>
+    </div>
+</div>
+

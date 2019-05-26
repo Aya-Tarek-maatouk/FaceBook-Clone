@@ -1,0 +1,18 @@
+﻿@model Facebook.Models.Skill
+
+
+@using (Ajax.BeginForm("updateskill", "Profile", routeValues: new { id = Model.ID }, ajaxOptions: new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "SkillDiv", InsertionMode = InsertionMode.Replace }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        @Html.EditorFor(model => model.skill)
+    </div>
+
+    <input type="submit" value="Save" class="btn btn-default" />
+
+}
+
+

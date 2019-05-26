@@ -1,0 +1,306 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #e9ecef;
+    font-family: 'Bree Serif', serif;
+}
+ /*Set padding to keep content from hitting the edges*/ 
+.body-content {
+    margin-left: 10%;
+    position:relative
+        ;
+    position:center;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: auto;
+    max-height: calc(100vh - 340px);
+}
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+/* Set width on the form input elements since they're 100% wide by default */
+input,select,textarea {
+    max-width: 280px;
+}
+/*here is there CSS Style*/
+ 
+.Myheader {
+    background-color: #0c5c82;
+    color: white;
+    padding-top: 10px;
+    height: 70px;
+    text-align: justify;
+    font-family: 'Comic Sans MS';
+}
+
+.myfooter {
+    background-color: #0c5c82;
+    color: white;
+    padding-top: 10px;
+    height: 160px;
+    text-align: justify;
+    font-family: 'Comic Sans MS';
+}
+
+.Subfooter {
+    background-color: #02334a;
+    margin: 5px;
+    padding:10px;
+    text-align: center;
+    font-family: 'Comic Sans MS';
+    color: white;
+}
+
+.navbar {
+    background-color: #0c5c82;
+    border-color: #f5f5f5;
+   
+}
+
+.navbar .navbar-nav>li>a {
+        color: white;
+        font-family:'Comic Sans MS';
+    }
+
+.navbar .navbar-nav > li > a:hover {
+            color:azure;
+        }
+
+.nav > li {
+    position: relative;
+    display: block;
+    height:75px;
+    padding-top:10px;
+    color: white;
+}
+
+.myfooter a {
+    color: azure;
+}
+
+.Myglyph {
+    padding: 15px;
+}
+
+.myfooter h3,ul,p{
+    margin-bottom:20px;
+    list-style-type:none;
+    font-family:'Comic Sans MS';
+}
+/*  Post and Comment Styles */
+.PostUserName {
+    color: #01579B;
+    font-family: 'Anton', sans-serif;
+    font-size: 9pt;
+    letter-spacing: 1px;
+    font-weight: 400;
+    display: block;
+    position: relative;
+    top: 10px;
+}
+
+.PostDate {
+    color: #BDBDBD;
+    font-family: 'Anton', sans-serif;
+    font-size: 8pt;
+    display: block;
+    position: relative;
+    top: 15px;
+}
+#PostUserInfo {
+    display: inline-block;
+    box-sizing: border-box;
+}
+.PostBody {
+    font-family: 'Bree Serif', serif;
+    padding: 20px;
+}
+#LeftMainMenu {
+    margin-right: 1%;
+    margin-bottom:1%;
+    margin-top:45px;
+ 
+}
+#Div_lftMenu ul li {
+    width:250px;
+    cursor:pointer;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+#RightMainMenu {
+    margin: 1%;
+}
+#MainPostContainer {
+    margin: 1%;
+    padding-right: 25px;
+    padding-left: 15px;
+}
+#CreatePost {
+    margin: 3% 1%;
+    padding: 0;
+}
+#CreatePost p {
+        background-color: #E0E0E0;
+        font-family: 'Bree Serif', serif;
+        font-weight: bold;
+        color: #424242;
+        border-bottom: solid rgba(128, 128, 128,0.5) 1px;
+        padding: 5px;
+        padding-right: 25px;
+        padding-left: 15px;
+    }
+#CreatePostInputs {
+    padding: 5px;
+    padding-right: 25px;
+    font-family: 'Bree Serif', serif;
+    padding-left: 15px;
+    padding-bottom: 40px;
+}
+#CreatePostInputs div img {
+        width: 40px;
+        border-radius: 100%;
+    }
+#CreatePostInputs div input {
+        display: inline-block;
+        background-color: #EEEEEE;
+        height: 30px;
+        width: 85%;
+        border-radius: 100px;
+        padding-left: 10px;
+        border: 1px solid #BDBDBD;
+    }
+#PostsTimeLine {
+    margin: 1%;
+    margin-bottom: 30px;
+    padding-top: 1%;
+    padding-bottom: 30px;
+    padding-left: 1%;
+    background-color: #FAFAFA;
+}
+#TimeLinePostBody {
+    margin-top: 10px;
+}
+#PostBodyLikeComment {
+    padding-left: 10px
+}
+#PostsTimeLine div div img {
+    width: 50px;
+    display: inline-block;
+
+    border-radius: 100%;
+    margin-right: 15px;
+    margin-left: 10px;
+}
+
+#Like {
+    padding-right: 10%;
+    padding-left: 10%;
+    display: inline-block;
+}
+
+#PostBodyCommentasset {
+    width: 20px !important;
+}
+#PostBodyLikeasset {
+    width: 20px !important;
+}
+
+#Comment p {
+    display: inline-block;
+}
+
+#CommentSection img {
+    width: 40px;
+    border-radius: 100%;
+}
+
+#CommentSection input[type=text] {
+    display: inline-block;
+    background-color: #EEEEEE;
+    height: 30px;
+    width: 85%;
+    border-radius: 100px;
+    padding-left: 10px;
+    border: 1px solid #BDBDBD;
+}
+.jumbotron {
+    font-size:14px;
+}
+a, a p {
+    color: #9E9E9E;
+    text-decoration: none;
+    font-family: 'Anton', sans-serif;
+    font-size: 9pt;
+    letter-spacing: 1px;
+}
+
+#exampleModalLabel,#exampleModalLabel2 {
+    color: #9E9E9E;
+    font-family: 'Anton', sans-serif;
+    font-size: 14pt;
+    letter-spacing: 1px;
+}
+    
+    a:hover, a p:hover {
+        color: #1A237E;
+        text-decoration: none;
+        font-family: 'Anton', sans-serif;
+        font-size: 9pt;
+        letter-spacing: 1px;
+    }
+
+#Comment-modal-body-Div, #Post-modal-body-Div {
+    padding: 5px;
+    padding-right: 25px;
+    font-family: 'Bree Serif', serif;
+    padding-left: 15px;
+    padding-bottom: 40px;
+}
+#Comment-modal-body-img, #Post-modal-body-img {
+    width: 70px;
+    border-radius: 100%;
+    position: relative;
+    top: 0px;
+    display: inline-block;
+    padding: 10px;
+}
+#Comment-modal-body-txt, #Post-modal-body-txt {
+    display: inline-block;
+    height: 150px;
+    width: 90%;
+    padding-left: 10px;
+    border: none;
+    position: relative;
+    top: 0px;
+    left:50px;
+    padding: 10px;
+}
+
+.ProfileMenu {
+    color: #0c5c82 !important;
+    font-size: 14px !important;
+    font-family: 'Anton', sans-serif !important;
+    margin-left: 10px;
+}
+hr {
+    border: none;
+    height: 1px;
+    color: #9E9E9E;
+    background-color: #9E9E9E;
+}
+
+.SearchFormDiv {
+    width:500px;
+}
+.searchForm {
+    display:inline-block;
+}
+
+.FriendRequest{
+    display:inline-block;
+}
+
+    

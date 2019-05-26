@@ -1,0 +1,31 @@
+﻿@model Facebook.Models.Post
+
+@using (Ajax.BeginForm("EditPosts", new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "HomeGetAllPostsDiv_", InsertionMode = InsertionMode.Replace, OnSuccess = "fun2()" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+
+        @Html.HiddenFor(model => model.PostId)
+        <div id="Post-modal-body-Div">
+            <div class="col-12">
+                <img id="Post-modal-body-img" src="~/Image/@Model.ApplicationUser.image" />
+                @Html.TextAreaFor(model => model.Post_Body, new { @class = "w3-border w3-padding", id = "Post-modal-body-txt", @placeholder = "What's In Your Mind?" })
+                @Html.ValidationMessageFor(model => model.Post_Body, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button type="submit" class="btn btn-primary">Post</button>
+        </div>
+    </div>
+}
+
+

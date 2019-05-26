@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Facebook.Models.Skill>
+
+<ul class="list-group list-group-flush" id="skillUL">
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item">
+            <span>@item.skill</span>
+        </li>
+
+    }
+
+</ul>
+
